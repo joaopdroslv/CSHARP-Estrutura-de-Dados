@@ -1,0 +1,45 @@
+C:\Users\Aluno\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.exe
+C:\Users\Aluno\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.deps.json
+C:\Users\Aluno\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.runtimeconfig.json
+C:\Users\Aluno\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.dll
+C:\Users\Aluno\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.pdb
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.dll
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\refint\ExerciciosC#.dll
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.pdb
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\ExerciciosC#\obj\Debug\net6.0\ref\ExerciciosC#.dll
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.csproj.AssemblyReference.cache
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.AssemblyInfoInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.AssemblyInfo.cs
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.dll
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\refint\ExerciciosC#.dll
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.pdb
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.exe
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.deps.json
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.runtimeconfig.json
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.dll
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\bin\Debug\net6.0\ExerciciosC#.pdb
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ExerciciosC#.genruntimeconfig.cache
+C:\Users\JOÃO PEDRO\Desktop\ExerciciosC#\obj\Debug\net6.0\ref\ExerciciosC#.dll
+C:\Users\Aluno\Downloads\Exerc01\bin\Debug\net6.0\ExerciciosC#.exe
+C:\Users\Aluno\Downloads\Exerc01\bin\Debug\net6.0\ExerciciosC#.deps.json
+C:\Users\Aluno\Downloads\Exerc01\bin\Debug\net6.0\ExerciciosC#.runtimeconfig.json
+C:\Users\Aluno\Downloads\Exerc01\bin\Debug\net6.0\ExerciciosC#.dll
+C:\Users\Aluno\Downloads\Exerc01\bin\Debug\net6.0\ExerciciosC#.pdb
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ExerciciosC#.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ExerciciosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ExerciciosC#.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ExerciciosC#.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ExerciciosC#.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ExerciciosC#.dll
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\refint\ExerciciosC#.dll
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ExerciciosC#.pdb
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ExerciciosC#.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Exerc01\obj\Debug\net6.0\ref\ExerciciosC#.dll

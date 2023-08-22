@@ -1,0 +1,15 @@
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\bin\Debug\net6.0\ArvoreBinariaExerc24.exe
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\bin\Debug\net6.0\ArvoreBinariaExerc24.deps.json
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\bin\Debug\net6.0\ArvoreBinariaExerc24.runtimeconfig.json
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\bin\Debug\net6.0\ArvoreBinariaExerc24.dll
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\bin\Debug\net6.0\ArvoreBinariaExerc24.pdb
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ArvoreBinariaExerc24.csproj.AssemblyReference.cache
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ArvoreBinariaExerc24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ArvoreBinariaExerc24.AssemblyInfoInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ArvoreBinariaExerc24.AssemblyInfo.cs
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ArvoreBinariaExerc24.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ArvoreBinariaExerc24.dll
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\refint\ArvoreBinariaExerc24.dll
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ArvoreBinariaExerc24.pdb
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ArvoreBinariaExerc24.genruntimeconfig.cache
+C:\Users\JOÃO PEDRO\Desktop\ArvoreBinariaExerc24\obj\Debug\net6.0\ref\ArvoreBinariaExerc24.dll

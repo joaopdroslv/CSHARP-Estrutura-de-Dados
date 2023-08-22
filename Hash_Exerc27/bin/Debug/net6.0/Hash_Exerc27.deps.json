@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hash_Exerc27/1.0.0": {
+        "runtime": {
+          "Hash_Exerc27.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hash_Exerc27/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

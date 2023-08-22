@@ -1,0 +1,15 @@
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\TarefaFila02.csproj.AssemblyReference.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\TarefaFila02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\TarefaFila02.AssemblyInfoInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\TarefaFila02.AssemblyInfo.cs
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\TarefaFila02.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\bin\Debug\net6.0\TarefaFila02.exe
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\bin\Debug\net6.0\TarefaFila02.deps.json
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\bin\Debug\net6.0\TarefaFila02.runtimeconfig.json
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\bin\Debug\net6.0\TarefaFila02.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\bin\Debug\net6.0\TarefaFila02.pdb
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\TarefaFila02.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\refint\TarefaFila02.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\TarefaFila02.pdb
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\TarefaFila02.genruntimeconfig.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaFila02\obj\Debug\net6.0\ref\TarefaFila02.dll

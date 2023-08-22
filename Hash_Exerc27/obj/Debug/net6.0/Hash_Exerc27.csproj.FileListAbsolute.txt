@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Hash_Exerc27\bin\Debug\net6.0\Hash_Exerc27.exe
+C:\Users\Aluno\Desktop\Hash_Exerc27\bin\Debug\net6.0\Hash_Exerc27.deps.json
+C:\Users\Aluno\Desktop\Hash_Exerc27\bin\Debug\net6.0\Hash_Exerc27.runtimeconfig.json
+C:\Users\Aluno\Desktop\Hash_Exerc27\bin\Debug\net6.0\Hash_Exerc27.dll
+C:\Users\Aluno\Desktop\Hash_Exerc27\bin\Debug\net6.0\Hash_Exerc27.pdb
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\Hash_Exerc27.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\Hash_Exerc27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\Hash_Exerc27.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\Hash_Exerc27.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\Hash_Exerc27.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\Hash_Exerc27.dll
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\refint\Hash_Exerc27.dll
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\Hash_Exerc27.pdb
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\Hash_Exerc27.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Hash_Exerc27\obj\Debug\net6.0\ref\Hash_Exerc27.dll

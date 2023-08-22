@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\TarefaFila01\bin\Debug\net6.0\TarefaFila01.exe
+C:\Users\Aluno\Desktop\TarefaFila01\bin\Debug\net6.0\TarefaFila01.deps.json
+C:\Users\Aluno\Desktop\TarefaFila01\bin\Debug\net6.0\TarefaFila01.runtimeconfig.json
+C:\Users\Aluno\Desktop\TarefaFila01\bin\Debug\net6.0\TarefaFila01.dll
+C:\Users\Aluno\Desktop\TarefaFila01\bin\Debug\net6.0\TarefaFila01.pdb
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\TarefaFila01.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\TarefaFila01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\TarefaFila01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\TarefaFila01.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\TarefaFila01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\TarefaFila01.dll
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\refint\TarefaFila01.dll
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\TarefaFila01.pdb
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\TarefaFila01.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\TarefaFila01\obj\Debug\net6.0\ref\TarefaFila01.dll

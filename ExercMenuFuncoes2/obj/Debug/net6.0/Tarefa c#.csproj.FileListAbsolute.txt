@@ -1,0 +1,30 @@
+C:\Users\Aluno\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.exe
+C:\Users\Aluno\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.deps.json
+C:\Users\Aluno\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.runtimeconfig.json
+C:\Users\Aluno\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.dll
+C:\Users\Aluno\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.pdb
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.dll
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\refint\Tarefa c#.dll
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.pdb
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Tarefa c#\obj\Debug\net6.0\ref\Tarefa c#.dll
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.csproj.AssemblyReference.cache
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.AssemblyInfoInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.AssemblyInfo.cs
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.dll
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\refint\Tarefa c#.dll
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.pdb
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.exe
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.deps.json
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.runtimeconfig.json
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.dll
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\bin\Debug\net6.0\Tarefa c#.pdb
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\Tarefa c#.genruntimeconfig.cache
+C:\Users\JOÃO PEDRO\Desktop\Tarefa c#\obj\Debug\net6.0\ref\Tarefa c#.dll

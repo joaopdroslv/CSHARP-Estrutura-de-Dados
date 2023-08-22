@@ -1,0 +1,15 @@
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\bin\Debug\net6.0\TarefaThread.exe
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\bin\Debug\net6.0\TarefaThread.deps.json
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\bin\Debug\net6.0\TarefaThread.runtimeconfig.json
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\bin\Debug\net6.0\TarefaThread.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\bin\Debug\net6.0\TarefaThread.pdb
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\TarefaThread.csproj.AssemblyReference.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\TarefaThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\TarefaThread.AssemblyInfoInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\TarefaThread.AssemblyInfo.cs
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\TarefaThread.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\TarefaThread.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\refint\TarefaThread.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\TarefaThread.pdb
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\TarefaThread.genruntimeconfig.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaThread\obj\Debug\net6.0\ref\TarefaThread.dll

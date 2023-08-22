@@ -1,0 +1,15 @@
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\bin\Debug\net6.0\Exerc28.exe
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\bin\Debug\net6.0\Exerc28.deps.json
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\bin\Debug\net6.0\Exerc28.runtimeconfig.json
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\bin\Debug\net6.0\Exerc28.dll
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\bin\Debug\net6.0\Exerc28.pdb
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\Exerc28.csproj.AssemblyReference.cache
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\Exerc28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\Exerc28.AssemblyInfoInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\Exerc28.AssemblyInfo.cs
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\Exerc28.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\Exerc28.dll
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\refint\Exerc28.dll
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\Exerc28.pdb
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\Exerc28.genruntimeconfig.cache
+C:\Users\JOÃO PEDRO\Desktop\Exerc28\obj\Debug\net6.0\ref\Exerc28.dll

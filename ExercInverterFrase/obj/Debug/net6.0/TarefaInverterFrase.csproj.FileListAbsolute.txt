@@ -1,0 +1,15 @@
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\TarefaInverterFrase.csproj.AssemblyReference.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\TarefaInverterFrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\TarefaInverterFrase.AssemblyInfoInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\TarefaInverterFrase.AssemblyInfo.cs
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\TarefaInverterFrase.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\bin\Debug\net6.0\TarefaInverterFrase.exe
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\bin\Debug\net6.0\TarefaInverterFrase.deps.json
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\bin\Debug\net6.0\TarefaInverterFrase.runtimeconfig.json
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\bin\Debug\net6.0\TarefaInverterFrase.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\bin\Debug\net6.0\TarefaInverterFrase.pdb
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\TarefaInverterFrase.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\refint\TarefaInverterFrase.dll
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\TarefaInverterFrase.pdb
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\TarefaInverterFrase.genruntimeconfig.cache
+C:\Users\JOÃO PEDRO\Desktop\TarefasC#\TarefaInverterFrase\obj\Debug\net6.0\ref\TarefaInverterFrase.dll
