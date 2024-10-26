@@ -100,7 +100,7 @@ tp_no Remover(ref tp_no r, int x)
    else if (x == r.valor)
    {       
       tp_no p = r;
-      if (r.esq == null) //Não tem filho na esqueda
+      if (r.esq == null) //Não tem filho na esquerda
          r = r.dir;
       else if (r.dir == null) //Não tem filho na direita
          r = r.esq;
